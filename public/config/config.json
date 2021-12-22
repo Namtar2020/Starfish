@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x23ff5c4cf8949263A6716862027049633e0BDcBB",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x23ff5c4cf8949263a6716862027049633e0bdcbb",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Starfish Kingdom",
+  "SYMBOL": "STF",
+  "MAX_SUPPLY": 315,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/starfish-kingdom",
+  "SHOW_BACKGROUND": true
+}
